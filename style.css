@@ -1,0 +1,187 @@
+/* Ammon */
+@font-face {
+    font-family: 'Ammon';
+    src: url('fonts/Ammon-webfont.eot');
+    src: url('fonts/Ammon-webfont.eot?#iefix') format('embedded-opentype'),
+         url('fonts/Ammon-webfont.woff2') format('woff2'),
+         url('fonts/Ammon-webfont.woff') format('woff'),
+         url('fonts/Ammon-webfont.ttf') format('truetype'),
+         url('fonts/Ammon-webfont.svg#ammonmedium') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+/* Becca */
+@font-face {
+    font-family: 'Becca';
+    src: url('fonts/Becca-webfont.eot');
+    src: url('fonts/Becca-webfont.eot?#iefix') format('embedded-opentype'),
+         url('fonts/Becca-webfont.woff2') format('woff2'),
+         url('fonts/Becca-webfont.woff') format('woff'),
+         url('fonts/Becca-webfont.ttf') format('truetype'),
+         url('fonts/Becca-webfont.svg#beccamedium') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+/* Eric */
+@font-face {
+    font-family: 'Eric';
+    src: url('fonts/Eric-webfont.eot');
+    src: url('fonts/Eric-webfont.eot?#iefix') format('embedded-opentype'),
+         url('fonts/Eric-webfont.woff2') format('woff2'),
+         url('fonts/Eric-webfont.woff') format('woff'),
+         url('fonts/Eric-webfont.ttf') format('truetype'),
+         url('fonts/Eric-webfont.svg#ericmedium') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+/* Jerm */
+@font-face {
+    font-family: 'Jerm';
+    src: url('fonts/Jerm-webfont.eot');
+    src: url('fonts/Jerm-webfont.eot?#iefix') format('embedded-opentype'),
+         url('fonts/Jerm-webfont.woff2') format('woff2'),
+         url('fonts/Jerm-webfont.woff') format('woff'),
+         url('fonts/Jerm-webfont.ttf') format('truetype'),
+         url('fonts/Jerm-webfont.svg#jermmedium') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+/* Laura */
+@font-face {
+    font-family: 'Laura';
+    src: url('fonts/Laura-webfont.eot');
+    src: url('fonts/Laura-webfont.eot?#iefix') format('embedded-opentype'),
+         url('fonts/Laura-webfont.woff2') format('woff2'),
+         url('fonts/Laura-webfont.woff') format('woff'),
+         url('fonts/Laura-webfont.ttf') format('truetype'),
+         url('fonts/Laura-webfont.svg#lauramedium') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+/* Purdom */
+@font-face {
+    font-family: 'Purdom';
+    src: url('fonts/Purdom-webfont.eot');
+    src: url('fonts/Purdom-webfont.eot?#iefix') format('embedded-opentype'),
+         url('fonts/Purdom-webfont.woff2') format('woff2'),
+         url('fonts/Purdom-webfont.woff') format('woff'),
+         url('fonts/Purdom-webfont.ttf') format('truetype'),
+         url('fonts/Purdom-webfont.svg#purdommedium') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+/* Ronda */
+@font-face {
+    font-family: 'Ronda';
+    src: url('fonts/Ronda-webfont.eot');
+    src: url('fonts/Ronda-webfont.eot?#iefix') format('embedded-opentype'),
+         url('fonts/Ronda-webfont.woff2') format('woff2'),
+         url('fonts/Ronda-webfont.woff') format('woff'),
+         url('fonts/Ronda-webfont.ttf') format('truetype'),
+         url('fonts/Ronda-webfont.svg#rondamedium') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+/* Scott */
+@font-face {
+    font-family: 'Scott';
+    src: url('fonts/Scott-webfont.eot');
+    src: url('fonts/Scott-webfont.eot?#iefix') format('embedded-opentype'),
+         url('fonts/Scott-webfont.woff2') format('woff2'),
+         url('fonts/Scott-webfont.woff') format('woff'),
+         url('fonts/Scott-webfont.ttf') format('truetype'),
+         url('fonts/Scott-webfont.svg#scottmedium') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+/* Wayne */
+@font-face {
+    font-family: 'Wayne';
+    src: url('fonts/Wayne-webfont.eot');
+    src: url('fonts/Wayne-webfont.eot?#iefix') format('embedded-opentype'),
+         url('fonts/Wayne-webfont.woff2') format('woff2'),
+         url('fonts/Wayne-webfont.woff') format('woff'),
+         url('fonts/Wayne-webfont.ttf') format('truetype'),
+         url('fonts/Wayne-webfont.svg#waynemedium') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+/* Waynebot */
+@font-face {
+    font-family: 'Waynebot';
+    src: url('fonts/Waynebot-webfont.eot');
+    src: url('fonts/Waynebot-webfont.eot?#iefix') format('embedded-opentype'),
+         url('fonts/Waynebot-webfont.woff2') format('woff2'),
+         url('fonts/Waynebot-webfont.woff') format('woff'),
+         url('fonts/Waynebot-webfont.ttf') format('truetype'),
+         url('fonts/Waynebot-webfont.svg#waynebotmedium') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+.ammon {
+    font-family: Ammon;
+}
+
+.becca {
+    font-family: Becca;
+}
+
+.eric {
+    font-family: Eric;
+}
+
+.jerm {
+    font-family: Jerm;
+}
+
+.laura {
+    font-family: Laura;
+}
+
+.purdom {
+    font-family: Purdom;
+}
+
+.scott {
+    font-family: Scott;
+}
+
+.wayne {
+    font-family: Wayne;
+}
+
+.waynebot {
+    font-family: Waynebot;
+}
+
+body {
+    font-size: 150%;
+    color: #333;
+    max-width: 700px;
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+    background: #fafafa;
+}
+
