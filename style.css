@@ -187,5 +187,10 @@ body {
     margin-left: auto;
     margin-right: auto;
     background: #fafafa;
+    font-family: Georgia, serif;
+}
+
+header {
+    border-bottom: 1px solid #ccc;
 }
 
