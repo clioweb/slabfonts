@@ -26,6 +26,20 @@
 
 }
 
+/* Bethany */
+@font-face {
+    font-family: 'Bethany';
+    src: url('fonts/Bethany-webfont.eot');
+    src: url('fonts/Bethany-webfont.eot?#iefix') format('embedded-opentype'),
+         url('fonts/Bethany-webfont.woff2') format('woff2'),
+         url('fonts/Bethany-webfont.woff') format('woff'),
+         url('fonts/Bethany-webfont.ttf') format('truetype'),
+         url('fonts/Bethany-webfont.svg#bethanymedium') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
 /* Eric */
 @font-face {
     font-family: 'Eric';
@@ -145,6 +159,10 @@
 
 .becca {
     font-family: Becca;
+}
+
+.bethany {
+    font-family: Bethany;
 }
 
 .eric {
