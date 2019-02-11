@@ -124,6 +124,15 @@
 
 }
 
+/* Shane */
+@font-face {
+    font-family: 'Shane Lin Hand';
+    src: url('fonts/ShaneLinHand-Regular.woff') format('woff'),
+         url('fonts/ShaneLinHand-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
 /* Wayne */
 @font-face {
     font-family: 'Wayne';
@@ -187,6 +196,10 @@
 
 .scott {
     font-family: Scott;
+}
+
+.shane {
+    font-family: Shane Lin Hand;
 }
 
 .wayne {
